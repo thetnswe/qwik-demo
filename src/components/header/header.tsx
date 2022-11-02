@@ -36,6 +36,8 @@ export default component$(() => {
           <a className='btn btn-secondary' href='/markdown'>Markdown</a>
           <a className='btn btn-secondary' href='/counter'>Counter</a>
           <a className='btn btn-secondary' href='/test/path'>Menu</a>
+          <a className='btn btn-primary' href='/hacker_news'>Hacker News</a>
+          <a className='btn btn-secondary' href='/auto_complete'>Auto Complete</a>
 
         </li>
       </ul>
